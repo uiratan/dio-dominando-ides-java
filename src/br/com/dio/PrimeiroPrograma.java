@@ -15,6 +15,12 @@ public class PrimeiroPrograma {
 
 }
 
+class Livros2 {
+	private String nome;
+	private Integer npag;
+}
+
+
 class Livros {
 	private String nome;
 	private Integer npag;
